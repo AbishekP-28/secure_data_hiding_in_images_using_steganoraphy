@@ -1,6 +1,6 @@
 I have created an encrypted image by using steganography
 
-**the secret code**: welcome to cyber security internship
+**the secret code**: welcome to cyber security internship !!!
 and  the **passkey** is 123
 for this project
 
