@@ -1,7 +1,7 @@
 I have created an encrypted image by using steganography
 
-**the secret code**: This is message we want to lock
-and  the **passkey** is 123456
+**the secret code**: welcome to cyber security internship
+and  the **passkey** is 123
 for this project
 
 
